@@ -66,5 +66,6 @@ Player profile editing
 Tournament result tracking
 Payment integration for entry fees
 Notification system (SMS/Email)
+
 Purpose
 The goal of this module is to provide a structured and scalable foundation for managing sports players and tournaments within the application.
